@@ -79,7 +79,12 @@ JavaScriptTraining リポジトリを fork します。
 	npm install
 
 
+###4.1 セットアップ2
+下のコマンドをターミナルで実行
 
+	cd JavaScriptTraining
+	node_modules/bower/bin/bower install --allow-root
+	
 ### 5. webサーバーを立ち上げる
 
 下のコマンドをターミナルで実行してください。
